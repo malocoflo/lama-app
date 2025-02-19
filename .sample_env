@@ -1,0 +1,6 @@
+ACCESS_TOKEN=szymon-lama-app-token
+ACCESS_TOKEN_HEADER_NAME=lama-header
+MODEL_DIR=""
+LOGGING_DIR=/home/lama/logs/lama.log
+LOGGING_LEVEL=DEBUG
+LOGGING_FORMAT="[%(asctime)s, %(levelname)s] %(message)s"
