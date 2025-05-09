@@ -3,3 +3,4 @@ python-dotenv
 uvicorn
 httpx
 gunicorn
+ollama
